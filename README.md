@@ -43,6 +43,4 @@
   <a href="https://www.linkedin.com/in/karl-web/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-</div>
-  * Whenever GitHub stops linking your click to my e-mail contact: karl.publicidade@gmail.com
-  
+</div>  
