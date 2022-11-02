@@ -1,9 +1,9 @@
 ### Hello, fellow dev, I'm Karl! 🤓
 
-- 💰 I’m currently working as a publicist as I study to become a Full Stack developer
+- 👨‍💻 I’m currently working as a publicist as I study to become a Full Stack developer
 - 🌱 I’m currently learning web development at [Trybe](https://www.betrybe.com/)
-- 👨 Pronouns: 🇺🇸 he/him 🇧🇷 ele/dele
-- 😅  Fun fact: sometimes strangers stop me on the street to ask for help with their phones.
+- 🗣️ Pronouns: 🇺🇸 he/him 🇧🇷 ele/dele
+- 😅 Fun fact: sometimes strangers stop me on the street to ask for help with their phones.
 
 <hr/>
 
