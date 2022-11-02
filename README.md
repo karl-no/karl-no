@@ -44,5 +44,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-  * Whenever GitHub stopps linking your click to my e-mail contact: karl.publicidade@gmail.com
+  * Whenever GitHub stops linking your click to my e-mail contact: karl.publicidade@gmail.com
   
