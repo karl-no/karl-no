@@ -1,4 +1,4 @@
-### Hello, fellow dev! 🤓
+### Hello, fellow dev, I'm Karl! 🤓
 
 - 💰 I’m currently working as a publicist as I study to become a Full Stack developer
 - 🌱 I’m currently learning web development at [Trybe](https://www.betrybe.com/)
@@ -34,6 +34,6 @@
 
 <hr/>
 
-### How to reach me:
-  <a href = "mailto:karl.publicidade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.https://www.linkedin.com/in/karl-web/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### Make yourself comfortable to contact me (I'm talkative and easygoing):
+  <a href = "mailto:karl.publicidade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/karl-web/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
