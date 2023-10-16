@@ -1,7 +1,7 @@
 ### Hello, fellow dev, I'm Karl! 🤓
 
 - 👨‍💻 I’ve worked as a publicist for 10 years;
-- 🌱 I’m currently learning web development at [Trybe](https://www.betrybe.com/);
+- 🌱 I’m currently working as a Backend Developer;
 - 🗣️ Pronouns: 🇺🇸 he/him 🇧🇷 ele/dele;
 - 😅 Fun fact: sometimes strangers stop me on the street to ask for help with their phones.
 
